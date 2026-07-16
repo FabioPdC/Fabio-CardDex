@@ -1,52 +1,52 @@
 [
   {
     "name": "Pikachu IR",
-    "set": "Japanese Pokémon Card",
-    "image": "https://images.pokemontcg.io/sv4a/173_hires.png"
+    "set": "Japanese Pokémon 151",
+    "image": "images/pikachu.jpg"
   },
   {
     "name": "Groudon IR",
-    "set": "Raging Surf",
-    "image": "https://images.pokemontcg.io/sv3a/171_hires.png"
+    "set": "Japanese Raging Surf",
+    "image": "images/groudon.jpg"
   },
   {
     "name": "Mew IR",
-    "set": "Pokémon 151",
-    "image": "https://images.pokemontcg.io/sv2a/183_hires.png"
+    "set": "Japanese Pokémon 151",
+    "image": "images/mew.jpg"
   },
   {
     "name": "Mewtwo IR",
-    "set": "Pokémon 151",
-    "image": "https://images.pokemontcg.io/sv2a/183_hires.png"
+    "set": "Japanese Pokémon 151",
+    "image": "images/mewtwo.jpg"
   },
   {
     "name": "Snorlax IR",
-    "set": "Pokémon 151",
-    "image": "https://images.pokemontcg.io/sv2a/181_hires.png"
+    "set": "Japanese Pokémon 151",
+    "image": "images/snorlax.jpg"
   },
   {
     "name": "Eevee IR",
     "set": "Japanese Pokémon Card",
-    "image": "https://images.pokemontcg.io/sv6a/078_hires.png"
+    "image": "images/eevee.jpg"
   },
   {
     "name": "Tyranitar IR",
     "set": "Japanese Pokémon Card",
-    "image": "https://images.pokemontcg.io/sv5a/093_hires.png"
+    "image": "images/tyranitar.jpg"
   },
   {
     "name": "Articuno IR",
-    "set": "Pokémon 151",
-    "image": "https://images.pokemontcg.io/sv2a/165_hires.png"
+    "set": "Japanese Pokémon 151",
+    "image": "images/articuno.jpg"
   },
   {
     "name": "Caterpie IR",
-    "set": "Pokémon 151",
-    "image": "https://images.pokemontcg.io/sv2a/172_hires.png"
+    "set": "Japanese Pokémon 151",
+    "image": "images/caterpie.jpg"
   },
   {
     "name": "Dragonair AR",
-    "set": "Pokémon 151",
-    "image": "https://images.pokemontcg.io/sv2a/181_hires.png"
+    "set": "Japanese Pokémon 151",
+    "image": "images/dragonair.jpg"
   }
 ]
