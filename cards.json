@@ -1,52 +1,52 @@
 [
   {
     "name": "Pikachu IR",
-    "set": "Japanese Pokémon 151" ,
-    "image": "images/pikachu.jpg"
+    "set": "Pokémon 151",
+    "image": "COLOCAR_IMAGEM"
   },
   {
     "name": "Groudon IR",
-    "set": "Japanese Raging Surf",
-    "image": "images/groudon.jpg"
+    "set": "Raging Surf",
+    "image": "COLOCAR_IMAGEM"
   },
   {
     "name": "Mew IR",
-    "set": "Japanese Pokémon 151",
-    "image": "images/mew.jpg"
+    "set": "Pokémon 151",
+    "image": "COLOCAR_IMAGEM"
   },
   {
     "name": "Mewtwo IR",
-    "set": "Japanese Pokémon 151",
-    "image": "images/mewtwo.jpg"
+    "set": "Pokémon 151",
+    "image": "COLOCAR_IMAGEM"
   },
   {
     "name": "Snorlax IR",
-    "set": "Japanese Pokémon 151",
-    "image": "images/snorlax.jpg"
+    "set": "Pokémon 151",
+    "image": "COLOCAR_IMAGEM"
   },
   {
     "name": "Eevee IR",
     "set": "Japanese Pokémon Card",
-    "image": "images/eevee.jpg"
+    "image": "COLOCAR_IMAGEM"
   },
   {
     "name": "Tyranitar IR",
     "set": "Japanese Pokémon Card",
-    "image": "images/tyranitar.jpg"
+    "image": "COLOCAR_IMAGEM"
   },
   {
     "name": "Articuno IR",
-    "set": "Japanese Pokémon 151",
-    "image": "images/articuno.jpg"
+    "set": "Pokémon 151",
+    "image": "COLOCAR_IMAGEM"
   },
   {
     "name": "Caterpie IR",
-    "set": "Japanese Pokémon 151",
-    "image": "images/caterpie.jpg"
+    "set": "Pokémon 151",
+    "image": "COLOCAR_IMAGEM"
   },
   {
     "name": "Dragonair AR",
-    "set": "Japanese Pokémon 151",
-    "image": "images/dragonair.jpg"
+    "set": "Pokémon 151",
+    "image": "COLOCAR_IMAGEM"
   }
 ]
